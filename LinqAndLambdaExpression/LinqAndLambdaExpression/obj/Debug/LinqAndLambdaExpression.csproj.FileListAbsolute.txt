@@ -1,0 +1,1 @@
+C:\Git\Github\LinqandLambda\LinqAndLambdaExpression\LinqAndLambdaExpression\obj\Debug\LinqAndLambdaExpression.csprojAssemblyReference.cache
